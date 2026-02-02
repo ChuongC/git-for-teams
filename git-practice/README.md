@@ -1,1 +1,1 @@
-# Git Practice - Completed Exercises
+# Git Practice
